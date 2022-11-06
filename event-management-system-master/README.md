@@ -1,4 +1,4 @@
-# 2nd Year Project
+# #3rd Year Project
 # Event Management Systems
 
 <p>
